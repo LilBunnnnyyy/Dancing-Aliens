@@ -1,0 +1,31 @@
+body{
+    background-color: #e7e8d1;
+    font-family: 'Special Elite', cursive;
+}
+.h{
+   color: #b85042;
+    background-color:#a7beae;
+}
+.h p{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    letter-spacing:2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#d button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+#z{
+    position:fixed;
+    color:#b85042;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 18px;
+}
